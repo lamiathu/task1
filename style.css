@@ -1,0 +1,55 @@
+body{
+  background-color: #F0F8FF	;
+  margin: 0;
+  padding: 20px;
+  justify-content: center;
+}
+.container{
+  text-align: center;
+  margin-top: 360px;
+
+
+}
+.btn{
+  border: 2px solid 		#B0E0E6;
+  background: none;
+  padding: 10px 20px;
+  font-size: 20px;
+  font-family: "montserrat";
+  cursor: pointer;
+  margin: 20px;
+align-items: center;
+
+}
+
+.btn1{
+  position:relative;
+  right:-380px;
+width: 90px;
+
+}
+.btn2{
+  position: relative;
+  left:-3px;
+width: 80px;
+}
+.btn3{
+  position:static;
+width: 80px;
+
+}
+.btn4{
+  position:relative;
+  top:-100px;
+  left: -125px;
+width: 80px;
+
+}
+
+.btn5{
+  position:relative;
+  bottom:-100px;
+  left: -250px;
+width: 90px;
+
+}
